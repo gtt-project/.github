@@ -5,4 +5,4 @@ Changes proposed in this pull request:
 -
 -
 
-@bizyman/admins
+@gtt-project/maintainer
