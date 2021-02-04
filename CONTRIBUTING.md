@@ -1,10 +1,10 @@
-# Contributing to Bizyman
+# Contributing to GTT Project
 We want to make contributing to this project as approachable and transparent as
 possible.
 
 ## Code of Conduct
-Bizyman has adopted a Code of Conduct that we expect project
-participants to adhere to. Please [read the full text](https://github.com/bizyman/.github/blob/master/CODE_OF_CONDUCT.md)
+GTT Project has adopted a Code of Conduct that we expect project
+participants to adhere to. Please [read the full text](https://github.com/gtt-project/.github/blob/master/CODE_OF_CONDUCT.md)
 so that you can understand what actions will and will not be tolerated.
 
 ## Our Development Process
@@ -22,7 +22,7 @@ We actively welcome your pull requests.
 6. “sign off” your commits to indicate that you agree to the terms of the DCO.
 
 ## Developer Certificate of Origin (DCO) 
-Before we can include your contribution in the Bizyman project, you need to 
+Before we can include your contribution in the GTT Project, you need to 
 give us your permission. To indicate that you agree to the terms of the DCO, 
 you “sign off” your contribution by adding a line with your name and e-mail 
 address to every Git commit message:
@@ -42,7 +42,7 @@ readability: This is open source software. Consider the people who will read
 your code, and make it look nice for them.
 
 ## License
-By contributing to Bizyman, you agree that your contributions will be licensed
+By contributing to GTT Project, you agree that your contributions will be licensed
 under the license indicated in the repositories `LICENSE` file.
 
 ## References
