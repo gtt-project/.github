@@ -1,2 +1,2 @@
 # .github
-Bizyman repository for administrative files
+GTT Project's repository for administrative files
