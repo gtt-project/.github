@@ -1,14 +1,14 @@
 ## Security
 
-Bizyman takes the security of our software seriously, which includes all source code repositories managed through our [GitHub organization](https://github.com/bizyman).
+GTT Project takes the security of our software seriously, which includes all source code repositories managed through our [GitHub organization](https://github.com/gtt-project).
 
-If you believe you have found a security vulnerability in any Bizyman-managed repository, please report it to us as described below.
+If you believe you have found a security vulnerability in any GTT Project-managed repository, please report it to us as described below.
 
 ## Reporting Security Issues
 
 **Please do not report security vulnerabilities through public GitHub issues.** 
 
-Instead, please report them via email to [info@bizyman.org](mailto:info@bizyman.org). You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
+Instead, please report them via email to [foss@georepublic.info](mailto:foss@georepublic.info). You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
 Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
 
