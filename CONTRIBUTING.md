@@ -4,17 +4,18 @@ possible.
 
 ## Code of Conduct
 GTT Project has adopted a Code of Conduct that we expect project
-participants to adhere to. Please [read the full text](https://github.com/gtt-project/.github/blob/master/CODE_OF_CONDUCT.md)
+participants to adhere to. Please [read the full text](https://github.com/gtt-project/.github/blob/main/CODE_OF_CONDUCT.md)
 so that you can understand what actions will and will not be tolerated.
 
 ## Our Development Process
-We use GitHub to sync code to and from our internal repository. We'll use GitHub
-to track issues and feature requests, as well as accept pull requests.
+All development happens on GitHub. We use GitHub to track issues and feature
+requests, as well as accept pull requests.
 
 ## Pull Requests
 We actively welcome your pull requests.
 
-1. Fork the repo and create your branch from `develop`.
+1. Fork the repo and create your branch from its development branch
+   (`next` where it exists, otherwise the default branch).
 2. If you've added code that should be tested, add tests.
 3. If you've changed APIs, update the documentation.
 4. Ensure the test suite passes.

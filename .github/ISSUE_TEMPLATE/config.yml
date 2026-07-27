@@ -1,6 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Support
-    url: https://georepublic.info/
-    about: Looking for commercial support?
-    
+  - name: Discussions
+    url: https://github.com/orgs/gtt-project/discussions
+    about: Ask questions and share ideas with the community.
+  - name: Website
+    url: https://gtt-project.org
+    about: Learn more about the GTT Project.
