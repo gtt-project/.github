@@ -19,6 +19,9 @@ the maintainers can see. See GitHub's documentation on
 [privately reporting a security vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)
 for details.
 
+If you cannot use GitHub's private reporting, you can also reach us by email
+at [hello@gtt-project.org](mailto:hello@gtt-project.org).
+
 Please include the requested information listed below (as much as you can
 provide) to help us better understand the nature and scope of the possible
 issue:

@@ -1,7 +1,8 @@
 # GTT Project Support
 
 Questions, ideas and general discussion are welcome in the
-[GTT Project Discussions](https://github.com/orgs/gtt-project/discussions).
+[GTT Project Discussions](https://github.com/orgs/gtt-project/discussions),
+or by email at [hello@gtt-project.org](mailto:hello@gtt-project.org).
 You can also find more information about the GTT Project on our website:
 [https://gtt-project.org](https://gtt-project.org).
 
